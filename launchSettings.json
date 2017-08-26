@@ -1,0 +1,14 @@
+{
+    "buildOptions": {
+    "emitEntryPoint": true,
+    "copyToOutput": {
+       "include": [
+       "appsettings*.json"
+       
+                 ]
+          },
+    "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+}

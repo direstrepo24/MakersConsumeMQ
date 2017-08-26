@@ -1,0 +1,12 @@
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/MakersConsumeMQ.deps.json
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/MakersConsumeMQ.runtimeconfig.json
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/MakersConsumeMQ.runtimeconfig.dev.json
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/MakersConsumeMQ.dll
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/MakersConsumeMQ.pdb
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/makerscoreDatalib.dll
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/bin/Debug/netcoreapp2.0/makerscoreDatalib.pdb
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/obj/Debug/netcoreapp2.0/MakersConsumeMQ.csproj.CoreCompileInputs.cache
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/obj/Debug/netcoreapp2.0/MakersConsumeMQ.AssemblyInfoInputs.cache
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/obj/Debug/netcoreapp2.0/MakersConsumeMQ.AssemblyInfo.cs
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/obj/Debug/netcoreapp2.0/MakersConsumeMQ.dll
+/Users/torrefuertesas/dev/src/MakersConsumeMQ/obj/Debug/netcoreapp2.0/MakersConsumeMQ.pdb
